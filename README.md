@@ -1,0 +1,2 @@
+- 👋 Hi, I’m mert kaan
+- 👀 I’m interested in react-native and laravel :)
